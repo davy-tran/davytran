@@ -1,51 +1,26 @@
-<!-- 
-https://github.com/lifeparticle/Markdown-Cheatsheet
-https://youtu.be/eVGEea7adDM?si=cz1Fbqxr9VgioIEh
--->
+# Hi 👋, I'm Davy Tran
+## About Me
 
-# Math Tutor V1
+- 🏦 I'm Wayne State College Junior student majoring in Cybersecurity and Networking
 
-<b>Table of Content</b>
-- [Summary](#summary)
-- [Console Output Example](#console-output-example)
-- [Maintainers](#maintainers)`
+- 📚 I am fairly new to coding.
 
-## Summary
-Write a short summary of what this program does.   
-Should be at least a paragraph.
+- 🤔 I am learning .py, .cpp, and .css
 
-## Console Output Testing Example
-```
-***********************************************************
-      __  __       _   _       _____      _
-     |  \/  | __ _| |_| |__   |_   _|   _| |_ ___  _ __
-     | |\/| |/ _` | __| '_ \    | || | | | __/ _ \| '__|
-     | |  | | (_| | |_| | | |   | || |_| | || (_) | |
-     |_|  |_|\__,_|\__|_| |_|   |_| \__,_|\__\___/|_|
+- 👨🏻‍💻 Love programming and resolving problems
 
-***********************************************************
-*       Welcome to the Silly Simple Math Tutor            *
-***********************************************************
+- 🧠 I like to learn something new
 
-Fun math facts:
+- 📫 How to reach me **trandavy04@gmail.com**
 
-        * Math teachers have problems.
-        * Math is the only subject that counts.
-        * If it seems easy, you're doing it wrong.
-        * It's all fun and games until someone divides by zero!
+- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/davy-tran-02b87321b/**
 
-***********************************************************
 
-What is your name? Debbie
-Welcome Debbie to the Silly Simply Math Tutor!
+I currently work at Riverside Technologies Inc. as a helpdesk technician.
 
-What does 2 + 3 = 5
+### Education
 
-Sorry, this is all the program does for the moment.
-Version 2 is coming soon...
-End of program.
-
-```
+- AAS Western Iowa Tech Community College in Cybersecurity
 
 ## Maintainers
 [@dejohns2](https://github.com/dejohns2) Debbie Johnson
