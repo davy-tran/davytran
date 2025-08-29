@@ -22,7 +22,3 @@ I currently work at Riverside Technologies Inc. as a helpdesk technician.
 
 - AAS Western Iowa Tech Community College in Cybersecurity
 
-## Maintainers
-[@dejohns2](https://github.com/dejohns2) Debbie Johnson
-
-[Back to Top](#math-tutor-v1)
