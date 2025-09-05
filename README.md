@@ -7,18 +7,12 @@
 
 - 🤔 I am learning .py, .cpp, and .css
 
-- 👨🏻‍💻 Love programming and resolving problems
-
 - 🧠 I like to learn something new
 
-- 📫 How to reach me **trandavy04@gmail.com**
+- 📫 You can reach me at **trandavy04@gmail.com**
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/davy-tran-02b87321b/**
+- 💬 Checked my LinkedIn profile for more details! @ **https://www.linkedin.com/in/davy-tran-02b87321b/**
 
-
-I currently work at Riverside Technologies Inc. as a helpdesk technician.
-
-### Education
+### Education & Work Experience
 
 - AAS Western Iowa Tech Community College in Cybersecurity
-
